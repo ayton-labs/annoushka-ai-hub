@@ -1,0 +1,68 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Annoushka AI Hub",
+  "favicon": "favicon.svg",
+  "colors": {
+    "primary": "#C9A96E",
+    "light": "#D4B883",
+    "dark": "#B39658",
+    "anchors": {
+      "from": "#C9A96E",
+      "to": "#B39658"
+    }
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:ollie@annoushka.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "ChatGPT Login",
+    "url": "https://chat.openai.com"
+  },
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["introduction"]
+    },
+    {
+      "group": "Getting Started",
+      "pages": [
+        "getting-started/overview",
+        "getting-started/ai-101-basics",
+        "getting-started/first-week-guide",
+        "getting-started/prompt-writing-guide"
+      ]
+    },
+    {
+      "group": "Prompt Library",
+      "pages": [
+        "prompts/overview",
+        "prompts/general",
+        "prompts/marketing",
+        "prompts/social-media",
+        "prompts/merchandising",
+        "prompts/retail",
+        "prompts/product-development"
+      ]
+    },
+    {
+      "group": "Advanced Guides",
+      "pages": [
+        "guides/voice-mode-trick",
+        "guides/chatgpt-projects",
+        "guides/deep-research"
+      ]
+    },
+    {
+      "group": "Resources",
+      "pages": [
+        "resources/faqs"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "website": "https://www.annoushka.com"
+  }
+}
