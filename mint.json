@@ -73,5 +73,10 @@
   ],
   "footerSocials": {
     "website": "https://www.annoushka.com"
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": false,
+    "raiseIssue": false
   }
 }
