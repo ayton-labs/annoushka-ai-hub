@@ -3,8 +3,8 @@
   "name": "Annoushka AI Hub",
   "theme": "quill",
   "logo": {
-    "light": "/images/logo-dark.png",
-    "dark": "/images/logo-gold.png"
+    "light": "logo-dark.png",
+    "dark": "logo-gold.png"
   },
   "favicon": "favicon.svg",
   "colors": {
