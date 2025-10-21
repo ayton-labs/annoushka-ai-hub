@@ -1,13 +1,22 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Annoushka AI Hub",
+  "theme": "quill",
+  "logo": {
+    "light": "/images/logo-dark.png",
+    "dark": "/images/logo-light.png"
+  },
   "favicon": "favicon.svg",
   "colors": {
-    "primary": "#C9A96E",
+    "primary": "#F5AA30",
     "light": "#D4B883",
     "dark": "#B39658",
+    "background": {
+      "light": "#FAF8F5",
+      "dark": "#1A1613"
+    },
     "anchors": {
-      "from": "#C9A96E",
+      "from": "#F5AA30",
       "to": "#B39658"
     }
   },
