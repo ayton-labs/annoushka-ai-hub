@@ -2,6 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Annoushka AI Hub",
   "theme": "quill",
+  "metadata": {
+    "og:site_name": "AI - Annoushka AI Hub",
+    "title": "AI - Annoushka AI Hub"
+  },
   "logo": {
     "light": "/logo-dark.png",
     "dark": "/logo-gold.png",
