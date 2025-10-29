@@ -4,7 +4,8 @@
   "theme": "quill",
   "logo": {
     "light": "/logo-dark.png",
-    "dark": "/logo-gold.png"
+    "dark": "/logo-gold.png",
+    "height": 40
   },
   "favicon": "/favicon.svg",
   "colors": {

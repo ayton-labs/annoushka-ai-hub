@@ -1,0 +1,5 @@
+/* Increase navbar logo size */
+.nav-logo {
+  height: 2.5rem !important; /* Increase from default 1.75rem (h-7) to 2.5rem (h-10) */
+  max-height: 2.5rem !important;
+}
