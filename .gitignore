@@ -2,3 +2,8 @@
 node_modules/
 .mintlify/
 .env
+
+# Large asset files - host these on Cloudinary instead
+public/images/JPG_2025/
+public/brand guidelines/*.pdf
+public/brand guidelines/Annoushka_BRAND_fonts/
